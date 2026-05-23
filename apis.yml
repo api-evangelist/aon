@@ -1,0 +1,325 @@
+aid: aon
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/aon/refs/heads/main/apis.yml
+name: Aon
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Risk
+  - Reinsurance
+  - Insurance
+  - Health
+  - Retirement
+  - Talent
+  - Analytics
+  - Professional Services
+description: >-
+  Aon plc is a London-headquartered global professional services firm
+  delivering integrated risk and human capital advisory through two reporting
+  pillars — Risk Capital (broking, reinsurance, risk analytics) and Human
+  Capital (health, wealth, talent, rewards). The firm operates in over 120
+  countries, lists on the NYSE under the ticker AON, and grew its US middle-market
+  footprint with the April 2024 acquisition of NFP for roughly $13B. Aon
+  publishes named analytics platforms (Risk Analyzer suite, ReMetrica, CyQu,
+  Spectrum, Impact Forecasting catastrophe models, Radford McLagan
+  Compensation Database, SkillsGraph, Gauge, Revenue GPS) but those tools are
+  delivered through gated client portals — no developer portal, OpenAPI
+  catalog, SDK org, or public API reference is published on aon.com.
+created: '2026-05-22'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis:
+  - aid: aon:risk-capital-broking
+    name: Aon Risk Capital — Commercial Risk Broking
+    tags:
+      - Risk
+      - Insurance
+      - Broking
+      - Commercial Risk
+      - Claims
+    humanURL: https://www.aon.com/en/capabilities/commercial-risk
+    properties:
+      - type: Documentation
+        url: https://www.aon.com/en/capabilities/commercial-risk
+      - type: Contact
+        url: https://www.aon.com/en/contact
+    description: >-
+      Aon's Commercial Risk practice places property, casualty, financial,
+      cyber, and specialty insurance for corporations and institutions through
+      its global broking platform, paired with claims management and risk
+      retention advisory. Delivered through client teams and gated portals
+      rather than a public API.
+
+  - aid: aon:risk-capital-reinsurance
+    name: Aon Reinsurance Solutions
+    tags:
+      - Reinsurance
+      - Risk
+      - Catastrophe Models
+      - Capital Advisory
+    humanURL: https://www.aon.com/en/capabilities/reinsurance
+    properties:
+      - type: Documentation
+        url: https://www.aon.com/en/capabilities/reinsurance
+      - type: Contact
+        url: https://www.aon.com/en/contact
+    description: >-
+      Aon's Reinsurance practice advises insurers on treaty and facultative
+      placement, capital optimization, and analytics, marketing itself with
+      "Delivering value for insurance industry clients with more relevant and
+      impactful insight and solutions to meet their strategic goals" and
+      "120+ Impact Forecasting catastrophe models." Toolkits (Impact
+      Forecasting, ReMetrica, Tyche, PathWise) ship to clients without a
+      public developer surface.
+
+  - aid: aon:risk-analytics
+    name: Aon Risk Analytics
+    tags:
+      - Analytics
+      - Risk Management
+      - Cyber
+      - Decision Support
+    humanURL: https://www.aon.com/en/capabilities/risk-analytics
+    properties:
+      - type: Documentation
+        url: https://www.aon.com/en/capabilities/risk-analytics
+      - type: Contact
+        url: https://www.aon.com/en/contact
+    description: >-
+      Aon's Risk Analytics offering bundles named tools — Risk Analyzer suite,
+      ReMetrica, Aon's Risk Financing Analytics, CyQu, and Spectrum — to help
+      clients "Unlock the full potential of your risk data and Aon's broader
+      insights to make better decisions to protect and grow your
+      organization." No public API or developer documentation is referenced
+      for these tools.
+
+  - aid: aon:human-capital-health
+    name: Aon Human Capital — Health and Benefits
+    tags:
+      - Health
+      - Benefits
+      - Wellbeing
+      - HR
+    humanURL: https://www.aon.com/en/capabilities/health-and-benefits
+    properties:
+      - type: Documentation
+        url: https://www.aon.com/en/capabilities/health-and-benefits
+      - type: Contact
+        url: https://www.aon.com/en/contact
+    description: >-
+      Aon's Health and Benefits practice advises employers on medical,
+      pharmacy, wellbeing, and global benefits strategy, supported by Aon's
+      Global Medical Trend Rates research. Delivery is consultative and client
+      portal-based, with no developer-facing API.
+
+  - aid: aon:human-capital-wealth
+    name: Aon Human Capital — Wealth Solutions
+    tags:
+      - Retirement
+      - Pensions
+      - Investments
+      - Actuarial
+    humanURL: https://www.aon.com/en/capabilities/wealth
+    properties:
+      - type: Documentation
+        url: https://www.aon.com/en/capabilities/wealth
+      - type: Contact
+        url: https://www.aon.com/en/contact
+    description: >-
+      Aon's Wealth Solutions covers pension and retirement plan advisory,
+      investment consulting, and delegated/OCIO investment management for
+      plan sponsors. Engagement is consultative; no public investment-data API
+      is published.
+
+  - aid: aon:human-capital-talent
+    name: Aon Human Capital — Talent and Rewards
+    tags:
+      - Talent
+      - Compensation
+      - Rewards
+      - Workforce Analytics
+      - Assessment
+    humanURL: https://www.aon.com/en/capabilities/talent-and-rewards
+    properties:
+      - type: Documentation
+        url: https://www.aon.com/en/capabilities/talent-and-rewards
+      - type: Contact
+        url: https://www.aon.com/en/contact
+    description: >-
+      Aon's Talent and Rewards practice runs compensation, job architecture,
+      pay equity, and talent assessment programs, anchored by named data
+      products — the Radford McLagan Compensation Database, SkillsGraph,
+      Gauge (banking analytics), Revenue GPS (institutional equity
+      performance), and assessment tools that "integrate with 80+ applicant
+      tracking systems." Data is licensed to enterprise clients; no public
+      API surface.
+
+  - aid: aon:nfp
+    name: NFP — an Aon Company
+    tags:
+      - Insurance Brokerage
+      - Middle Market
+      - Benefits
+      - Wealth
+    humanURL: https://www.nfp.com
+    properties:
+      - type: Documentation
+        url: https://www.nfp.com
+      - type: Contact
+        url: https://www.nfp.com/contact
+    description: >-
+      NFP, acquired by Aon in April 2024 for approximately $13B, operates as
+      an independent middle-market brokerage business inside Aon serving
+      property and casualty, benefits, wealth, and retirement clients. NFP
+      preserves its own website and brand and has no published developer
+      portal.
+
+  - aid: aon:insights
+    name: Aon Insights
+    tags:
+      - Research
+      - Reports
+      - Thought Leadership
+      - Podcast
+    humanURL: https://www.aon.com/en/insights
+    properties:
+      - type: Documentation
+        url: https://www.aon.com/en/insights
+      - type: Podcast
+        url: https://www.aon.com/en/insights/podcasts/on-aon-podcast
+    description: >-
+      Aon Insights publishes research, reports, and the "On Aon" podcast
+      across Trade, Technology, Weather, and Workforce themes, framed by
+      "From navigating climate change to workforce resilience, today's leaders
+      need access to powerful insights to make better decisions." Flagship
+      reports (Global Risk Management Survey, Global Medical Trend Rates
+      Report, Global Cyber Risk Report, Employee Sentiment Study) download as
+      gated PDFs, not via an API or open data feed.
+
+common:
+  - type: Website
+    url: https://www.aon.com
+  - type: About
+    url: https://www.aon.com/en/about
+  - type: InvestorRelations
+    url: https://ir.aon.com
+  - type: Newsroom
+    url: https://www.aon.com/en/about/newsroom
+  - type: Insights
+    url: https://www.aon.com/en/insights
+  - type: Careers
+    url: https://www.aon.com/en/about/careers
+  - type: Contact
+    url: https://www.aon.com/en/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/aon
+  - type: X
+    url: https://twitter.com/Aon_plc
+  - type: YouTube
+    url: https://www.youtube.com/user/Aonplc
+
+features:
+  - type: Features
+    data:
+      - name: Risk Capital — Broking and Risk Transfer
+        description: >-
+          Global commercial insurance broking across property, casualty,
+          financial lines, cyber, and specialty, paired with claims
+          management.
+      - name: Risk Capital — Reinsurance
+        description: >-
+          Treaty and facultative reinsurance broking with capital advisory,
+          backed by 120+ Impact Forecasting catastrophe models, ReMetrica,
+          Tyche, and PathWise tooling.
+      - name: Risk Analytics Tooling
+        description: >-
+          Named client-side analytics — Risk Analyzer suite, ReMetrica,
+          Aon's Risk Financing Analytics, CyQu, Spectrum — supporting
+          program design and risk financing decisions.
+      - name: Health and Benefits Advisory
+        description: >-
+          Medical, pharmacy, wellbeing, and global benefits program design
+          for employers, supported by Aon's Global Medical Trend research.
+      - name: Wealth Solutions
+        description: >-
+          Pension and retirement consulting, investment advisory, and
+          delegated/OCIO investment management for plan sponsors.
+      - name: Talent and Rewards Data
+        description: >-
+          Compensation, job architecture, pay equity, and assessment
+          services backed by the Radford McLagan Compensation Database,
+          SkillsGraph, Gauge, and Revenue GPS data products.
+      - name: Middle Market via NFP
+        description: >-
+          Property and casualty, benefits, wealth, and retirement brokerage
+          for middle-market clients delivered through NFP, acquired by Aon
+          in April 2024 for approximately $13B.
+      - name: Insights and Research
+        description: >-
+          Thematic research and reports (Global Risk Management Survey,
+          Global Medical Trend Rates, Global Cyber Risk, Employee Sentiment)
+          plus the "On Aon" podcast, distributed via gated downloads.
+  - type: UseCases
+    data:
+      - name: Corporate Insurance Program Placement
+        description: >-
+          Multinational corporations sourcing property, casualty, cyber,
+          and specialty coverage across geographies through Aon's broking
+          platform.
+      - name: Reinsurance Capital Optimization
+        description: >-
+          Insurance carriers structuring treaty and facultative reinsurance
+          programs and optimizing capital usage with Aon's analytics.
+      - name: Catastrophe Model Evaluation
+        description: >-
+          Insurers and reinsurers running portfolio analysis through Impact
+          Forecasting's 120+ catastrophe models.
+      - name: Employer Health Benefits Strategy
+        description: >-
+          Employers redesigning medical, pharmacy, and wellbeing programs
+          informed by Aon's benchmarking and trend research.
+      - name: Pension and OCIO Management
+        description: >-
+          Defined benefit and defined contribution plan sponsors engaging
+          Aon for investment advisory or delegated investment management.
+      - name: Compensation Benchmarking
+        description: >-
+          Employers benchmarking total rewards against the Radford McLagan
+          Compensation Database and related Aon data assets.
+      - name: Middle-Market Benefits Brokerage
+        description: >-
+          Mid-sized employers buying benefits and P&C brokerage through NFP,
+          now an Aon company.
+  - type: Integrations
+    data:
+      - name: NFP
+        description: >-
+          Aon-owned middle-market brokerage acquired in April 2024 for
+          approximately $13B; operates under the NFP brand.
+      - name: Impact Forecasting
+        description: >-
+          Aon's catastrophe modelling unit providing 120+ peril models
+          backing the Reinsurance practice.
+      - name: Radford McLagan Compensation Database
+        description: >-
+          Aon's flagship compensation benchmarking dataset spanning
+          technology, life sciences, and financial services roles.
+      - name: ReMetrica / Tyche / PathWise
+        description: >-
+          Actuarial and capital-modelling tools deployed to insurance and
+          reinsurance clients.
+      - name: CyQu
+        description: >-
+          Aon's cyber risk quantification and assessment platform.
+      - name: SkillsGraph / Gauge / Revenue GPS
+        description: >-
+          Workforce-analytics and industry-performance data products
+          delivered through Talent and Rewards engagements.
+      - name: Applicant Tracking System Connectors
+        description: >-
+          Aon's assessment solutions integrate with 80+ applicant tracking
+          systems for talent acquisition workflows.
+
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
