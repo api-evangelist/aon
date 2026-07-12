@@ -197,6 +197,10 @@ apis:
       gated PDFs, not via an API or open data feed.
 
 common:
+  - type: VulnerabilityDisclosure
+    url: security/aon-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/aon-domain-security.yml
   - type: Website
     url: https://www.aon.com
   - type: About
