@@ -16,10 +16,6 @@ Aon plc is a London-headquartered global professional services firm delivering i
 
 ## APIs
 
-### Aon Risk Capital — Commercial Risk Broking
-Aon's Commercial Risk practice places property, casualty, financial, cyber, and specialty insurance for corporations and institutions through its global broking platform, paired with claims management and risk retention advisory. Delivered through client teams and gated portals rather than a public API.
-
-**Human URL:** [https://www.aon.com/en/capabilities/commercial-risk](https://www.aon.com/en/capabilities/commercial-risk)
 
 #### Tags:
 
@@ -30,10 +26,6 @@ Aon's Commercial Risk practice places property, casualty, financial, cyber, and 
 - [Documentation](https://www.aon.com/en/capabilities/commercial-risk)
 - [Contact](https://www.aon.com/en/contact)
 
-### Aon Reinsurance Solutions
-Aon's Reinsurance practice advises insurers on treaty and facultative placement, capital optimization, and analytics, marketing itself with "Delivering value for insurance industry clients with more relevant and impactful insight and solutions to meet their strategic goals" and "120+ Impact Forecasting catastrophe models." Toolkits (Impact Forecasting, ReMetrica, Tyche, PathWise) ship to clients without a public developer surface.
-
-**Human URL:** [https://www.aon.com/en/capabilities/reinsurance](https://www.aon.com/en/capabilities/reinsurance)
 
 #### Tags:
 
@@ -44,10 +36,6 @@ Aon's Reinsurance practice advises insurers on treaty and facultative placement,
 - [Documentation](https://www.aon.com/en/capabilities/reinsurance)
 - [Contact](https://www.aon.com/en/contact)
 
-### Aon Risk Analytics
-Aon's Risk Analytics offering bundles named tools — Risk Analyzer suite, ReMetrica, Aon's Risk Financing Analytics, CyQu, and Spectrum — to help clients "Unlock the full potential of your risk data and Aon's broader insights to make better decisions to protect and grow your organization." No public API or developer documentation is referenced for these tools.
-
-**Human URL:** [https://www.aon.com/en/capabilities/risk-analytics](https://www.aon.com/en/capabilities/risk-analytics)
 
 #### Tags:
 
@@ -58,10 +46,6 @@ Aon's Risk Analytics offering bundles named tools — Risk Analyzer suite, ReMet
 - [Documentation](https://www.aon.com/en/capabilities/risk-analytics)
 - [Contact](https://www.aon.com/en/contact)
 
-### Aon Human Capital — Health and Benefits
-Aon's Health and Benefits practice advises employers on medical, pharmacy, wellbeing, and global benefits strategy, supported by Aon's Global Medical Trend Rates research. Delivery is consultative and client portal-based, with no developer-facing API.
-
-**Human URL:** [https://www.aon.com/en/capabilities/health-and-benefits](https://www.aon.com/en/capabilities/health-and-benefits)
 
 #### Tags:
 
@@ -72,10 +56,6 @@ Aon's Health and Benefits practice advises employers on medical, pharmacy, wellb
 - [Documentation](https://www.aon.com/en/capabilities/health-and-benefits)
 - [Contact](https://www.aon.com/en/contact)
 
-### Aon Human Capital — Wealth Solutions
-Aon's Wealth Solutions covers pension and retirement plan advisory, investment consulting, and delegated/OCIO investment management for plan sponsors. Engagement is consultative; no public investment-data API is published.
-
-**Human URL:** [https://www.aon.com/en/capabilities/wealth](https://www.aon.com/en/capabilities/wealth)
 
 #### Tags:
 
@@ -86,10 +66,6 @@ Aon's Wealth Solutions covers pension and retirement plan advisory, investment c
 - [Documentation](https://www.aon.com/en/capabilities/wealth)
 - [Contact](https://www.aon.com/en/contact)
 
-### Aon Human Capital — Talent and Rewards
-Aon's Talent and Rewards practice runs compensation, job architecture, pay equity, and talent assessment programs, anchored by named data products — the Radford McLagan Compensation Database, SkillsGraph, Gauge (banking analytics), Revenue GPS (institutional equity performance), and assessment tools that "integrate with 80+ applicant tracking systems." Data is licensed to enterprise clients; no public API surface.
-
-**Human URL:** [https://www.aon.com/en/capabilities/talent-and-rewards](https://www.aon.com/en/capabilities/talent-and-rewards)
 
 #### Tags:
 
@@ -100,10 +76,6 @@ Aon's Talent and Rewards practice runs compensation, job architecture, pay equit
 - [Documentation](https://www.aon.com/en/capabilities/talent-and-rewards)
 - [Contact](https://www.aon.com/en/contact)
 
-### NFP — an Aon Company
-NFP, acquired by Aon in April 2024 for approximately $13B, operates as an independent middle-market brokerage business inside Aon serving property and casualty, benefits, wealth, and retirement clients. NFP preserves its own website and brand and has no published developer portal.
-
-**Human URL:** [https://www.nfp.com](https://www.nfp.com)
 
 #### Tags:
 
