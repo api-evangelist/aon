@@ -38,7 +38,7 @@ description: >-
   catalog, SDK org, or public API reference is published on aon.com.
 created: '2026-05-22'
 modified: '2026-07-25'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis:
   - aid: aon:insights
     name: Aon Insights
