@@ -57,6 +57,11 @@ apis:
       - Research
       - Reports
       - Thought Leadership
+      - Podcasts
+    tags_raw:
+      - Research
+      - Reports
+      - Thought Leadership
       - Podcast
     humanURL: https://www.aon.com/en/insights
     properties:
