@@ -27,6 +27,15 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/aon.png
 tags:
+  - Risk Management
+  - Reinsurance
+  - Insurance
+  - Health
+  - Retirement
+  - Talent
+  - Analytics
+  - Professional Services
+tags_raw:
   - Risk
   - Reinsurance
   - Insurance
