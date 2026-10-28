@@ -1,4 +1,4 @@
-# Aon (aon)
+# Aon
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,157 +66,82 @@
 
 Aon plc is a London-headquartered global professional services firm delivering integrated risk and human capital advisory through two reporting pillars — Risk Capital (broking, reinsurance, risk analytics) and Human Capital (health, wealth, talent, rewards). The firm operates in over 120 countries, lists on the NYSE under the ticker AON, and grew its US middle-market footprint with the April 2024 acquisition of NFP for roughly $13B. Aon publishes named analytics platforms (Risk Analyzer suite, ReMetrica, CyQu, Spectrum, Impact Forecasting catastrophe models, Radford McLagan Compensation Database, SkillsGraph, Gauge, Revenue GPS) but those tools are delivered through gated client portals — no developer portal, OpenAPI catalog, SDK org, or public API reference is published on aon.com.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/aon/refs/heads/main/apis.yml)
+**Areas:** Risk Management · Reinsurance · Insurance · Health · Retirement · Talent · Analytics · Professional Services
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Aon on APIs.io
 
-## Tags:
+Everything profiled for Aon is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aon/](https://apis.io/providers/aon/)** — or go straight to one of the APIs or properties below.
 
- - Risk, Reinsurance, Insurance, Health, Retirement, Talent, Analytics, Professional Services
+### APIs (1)
 
-## Timestamps
+- [Aon Insights](https://apis.io/apis/aon/insights/) — Aon Insights publishes research, reports, and the "On Aon" podcast across Trade, Technology, Weather, and Workforce themes, framed by "From navigating…
 
-- **Created:** 2026-05-22
-- **Modified:** 2026-05-23
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### Security (2)
 
-#### Tags:
+Authentication, trust centre, and vulnerability disclosure.
 
- - Risk, Insurance, Broking, Commercial Risk, Claims
+- [Aon Domain Security](https://apis.io/security/aon/aon-domain-security/)
+- [Aon Vulnerability Disclosure](https://apis.io/security/aon/aon-vulnerability-disclosure/)
 
-#### Properties
+## Where to find this API
 
-- [Documentation](https://www.aon.com/en/capabilities/commercial-risk)
-- [Contact](https://www.aon.com/en/contact)
-
-
-#### Tags:
-
- - Reinsurance, Risk, Catastrophe Models, Capital Advisory
-
-#### Properties
-
-- [Documentation](https://www.aon.com/en/capabilities/reinsurance)
-- [Contact](https://www.aon.com/en/contact)
-
-
-#### Tags:
-
- - Analytics, Risk Management, Cyber, Decision Support
-
-#### Properties
-
-- [Documentation](https://www.aon.com/en/capabilities/risk-analytics)
-- [Contact](https://www.aon.com/en/contact)
-
-
-#### Tags:
-
- - Health, Benefits, Wellbeing, HR
-
-#### Properties
-
-- [Documentation](https://www.aon.com/en/capabilities/health-and-benefits)
-- [Contact](https://www.aon.com/en/contact)
-
-
-#### Tags:
-
- - Retirement, Pensions, Investments, Actuarial
-
-#### Properties
-
-- [Documentation](https://www.aon.com/en/capabilities/wealth)
-- [Contact](https://www.aon.com/en/contact)
-
-
-#### Tags:
-
- - Talent, Compensation, Rewards, Workforce Analytics, Assessment
-
-#### Properties
-
-- [Documentation](https://www.aon.com/en/capabilities/talent-and-rewards)
-- [Contact](https://www.aon.com/en/contact)
-
-
-#### Tags:
-
- - Insurance Brokerage, Middle Market, Benefits, Wealth
-
-#### Properties
-
-- [Documentation](https://www.nfp.com)
-- [Contact](https://www.nfp.com/contact)
-
-### Aon Insights
-Aon Insights publishes research, reports, and the "On Aon" podcast across Trade, Technology, Weather, and Workforce themes, framed by "From navigating climate change to workforce resilience, today's leaders need access to powerful insights to make better decisions." Flagship reports (Global Risk Management Survey, Global Medical Trend Rates Report, Global Cyber Risk Report, Employee Sentiment Study) download as gated PDFs, not via an API or open data feed.
-
-**Human URL:** [https://www.aon.com/en/insights](https://www.aon.com/en/insights)
-
-#### Tags:
-
- - Research, Reports, Thought Leadership, Podcast
-
-#### Properties
-
-- [Documentation](https://www.aon.com/en/insights)
-- [Podcast](https://www.aon.com/en/insights/podcasts/on-aon-podcast)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.aon.com)
-- [About](https://www.aon.com/en/about)
-- [Investor Relations](https://ir.aon.com)
-- [Newsroom](https://www.aon.com/en/about/newsroom)
-- [Insights](https://www.aon.com/en/insights)
-- [Careers](https://www.aon.com/en/about/careers)
-- [Contact](https://www.aon.com/en/contact)
-- [LinkedIn](https://www.linkedin.com/company/aon)
-- [X](https://twitter.com/Aon_plc)
-- [YouTube](https://www.youtube.com/user/Aonplc)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Risk Capital — Broking and Risk Transfer | Global commercial insurance broking across property, casualty, financial lines, cyber, and specialty, paired with claims management. |
-| Risk Capital — Reinsurance | Treaty and facultative reinsurance broking with capital advisory, backed by 120+ Impact Forecasting catastrophe models, ReMetrica, Tyche, and PathWise tooling. |
-| Risk Analytics Tooling | Named client-side analytics — Risk Analyzer suite, ReMetrica, Aon's Risk Financing Analytics, CyQu, Spectrum — supporting program design and risk financing decisions. |
-| Health and Benefits Advisory | Medical, pharmacy, wellbeing, and global benefits program design for employers, supported by Aon's Global Medical Trend research. |
-| Wealth Solutions | Pension and retirement consulting, investment advisory, and delegated/OCIO investment management for plan sponsors. |
-| Talent and Rewards Data | Compensation, job architecture, pay equity, and assessment services backed by the Radford McLagan Compensation Database, SkillsGraph, Gauge, and Revenue GPS data products. |
-| Middle Market via NFP | Property and casualty, benefits, wealth, and retirement brokerage for middle-market clients delivered through NFP, acquired by Aon in April 2024 for approximately $13B. |
-| Insights and Research | Thematic research and reports (Global Risk Management Survey, Global Medical Trend Rates, Global Cyber Risk, Employee Sentiment) plus the "On Aon" podcast, distributed via gated downloads. |
+**Kin Score 6.8** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 58.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 0.0 |
 
-| Name | Description |
-|------|-------------|
-| Corporate Insurance Program Placement | Multinational corporations sourcing property, casualty, cyber, and specialty coverage across geographies through Aon's broking platform. |
-| Reinsurance Capital Optimization | Insurance carriers structuring treaty and facultative reinsurance programs and optimizing capital usage with Aon's analytics. |
-| Catastrophe Model Evaluation | Insurers and reinsurers running portfolio analysis through Impact Forecasting's 120+ catastrophe models. |
-| Employer Health Benefits Strategy | Employers redesigning medical, pharmacy, and wellbeing programs informed by Aon's benchmarking and trend research. |
-| Pension and OCIO Management | Defined benefit and defined contribution plan sponsors engaging Aon for investment advisory or delegated investment management. |
-| Compensation Benchmarking | Employers benchmarking total rewards against the Radford McLagan Compensation Database and related Aon data assets. |
-| Middle-Market Benefits Brokerage | Mid-sized employers buying benefits and P&C brokerage through NFP, now an Aon company. |
+**Agent readiness 0.0** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| NFP | Aon-owned middle-market brokerage acquired in April 2024 for approximately $13B; operates under the NFP brand. |
-| Impact Forecasting | Aon's catastrophe modelling unit providing 120+ peril models backing the Reinsurance practice. |
-| Radford McLagan Compensation Database | Aon's flagship compensation benchmarking dataset spanning technology, life sciences, and financial services roles. |
-| ReMetrica / Tyche / PathWise | Actuarial and capital-modelling tools deployed to insurance and reinsurance clients. |
-| CyQu | Aon's cyber risk quantification and assessment platform. |
-| SkillsGraph / Gauge / Revenue GPS | Workforce-analytics and industry-performance data products delivered through Talent and Rewards engagements. |
-| Applicant Tracking System Connectors | Aon's assessment solutions integrate with 80+ applicant tracking systems for talent acquisition workflows. |
+**Regulatory alignment 10.5** — Insurance
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aon/](https://apis.io/providers/aon/).
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aon: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aon/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
